@@ -396,14 +396,14 @@ img {
 }
 
 .floral--tr {
-  top: -6%;
-  right: -6%;
+  top: -1.5%;
+  right: -1.5%;
   transform: scale(-1, -1);
 }
 
 .floral--bl {
-  bottom: -6%;
-  left: -6%;
+  bottom: -1.5%;
+  left: -1.5%;
 }
 
 .invite-body {

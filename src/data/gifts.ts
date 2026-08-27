@@ -153,9 +153,9 @@ export const GIFTS: Gift[] = [
     image: "/images/gifts/18.jpg",
   },
   {
-    id: "terapia",
-    name: "Vale Terapia",
-    description: "Recuperar a sanidade pós-casamento.",
+    id: "motorhome",
+    name: "Parcela Motorhome",
+    description: "Pra viajar sem compromissos.",
     valueCents: 25000,
     checkoutUrl: "https://checkout.infinitepay.io/travaline-01/gzUuIJx7Kz",
     image: "/images/gifts/19.jpg",
