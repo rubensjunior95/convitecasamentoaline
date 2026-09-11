@@ -23,7 +23,7 @@ export const DRESS_CODE = [
   "Vestidos curtos (acima do joelho)",
   "Decotes muito grandes ou fendas muito altas",
   "Tecidos transparentes",
-  "Cor branca (ou tons que remetam a ela)",
+  "Cores branca e vermelha (ou tons que remetam a elas)",
   "Terno completo de qualquer cor",
   "Terno preto e camisa social preta",
 ] as const;
